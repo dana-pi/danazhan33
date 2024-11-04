@@ -9,3 +9,4 @@ index.html
     <h1>Hello, GitHub!</h1>
 </body>
 </html>
+<p>This is a new paragraph.</p>
